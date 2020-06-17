@@ -59,3 +59,5 @@ Polynomial | 10%
 Sigmoid | 5%
 
 Interestingly, the results from SVR were fairly on par with the basic regression techniques. RBF, the most popular Kernel used for SVR, performed the best out of the four, with 20% of its predictions considered close. Below is a graph that displays the prediction results from the RBF kernel alongside the testing values.
+
+![Sale Price Predictions vs Actual Price](https://lh6.googleusercontent.com/gqfwoMVkOY4YUzQR5GMRVD6HcHxgxx-krPYYI-kGy1SDY8TflgAweUt3VTvO_WgYsDeMNJ3nKb_PzaBydg0rY6ipeHRKRLvw9VYlzw-4s2-urNtpiUhwi9CKT--GRyzoOTCp7tTP)
